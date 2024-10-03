@@ -38,14 +38,8 @@ Este projeto é uma aplicação simples em C# que calcula o Índice de Massa Cor
 
 ### Execução do Programa
 
-
-<<<<<<< HEAD
 <img src="/imagens/calculadora de imc.png">
 <img src="/imagens/calculadora de imc (2).png">
-=======
-<img src="/">
->>>>>>> a645e892d63c8ca9edec8124c150ca2a6c530473
-
 
 ## Conclusão
 
