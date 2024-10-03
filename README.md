@@ -46,8 +46,5 @@ Este projeto é uma aplicação simples em C# que calcula o Índice de Massa Cor
   - A aplicação calcula e exibe corretamente o IMC do usuário e sua classificação.
   - A manipulação de entradas e saídas em C# é simples e eficaz.
   - O uso de condicionais permite uma fácil categorização dos resultados.
-<<<<<<< HEAD
   - Melhorar a validação de dados e considerar a criação de uma interface gráfica.
-=======
   - Melhorar a validação de dados e considerar a criação de uma interface gráfica.
->>>>>>> a645e892d63c8ca9edec8124c150ca2a6c530473
